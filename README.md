@@ -1,10 +1,10 @@
-Java Programs ☕
+<h1>Java Programs ☕</h1>
 
 Welcome to my Java Programs repository!
 
 This repository contains my Java practice programs as I learn the language from the basics. The programs are beginner-friendly and organized topic-wise to make learning and revision easier.
 
-📚 Topics Covered
+<b>📚 Topics Covered</b>
 
 - Java Basics
 - Variables & Data Types
