@@ -23,6 +23,7 @@ public class switchcase{
                 break;
             case 3:
                 System.out.println("Result :" +(a*b));
+                break;
             case 4:
                 System.out.println("Result :" +(a/b));
                 break;
