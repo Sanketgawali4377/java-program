@@ -21,6 +21,7 @@ public class Elseif {
             System.out.println("a is smaller than b");
         }
     }
+    sc.close();
 }
 }
 }
