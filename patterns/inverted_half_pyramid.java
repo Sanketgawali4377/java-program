@@ -7,7 +7,6 @@ public class inverted_half_pyramid {
             for(int j=1; j<=i; j++){
                     System.out.print("*");
                 }
-        
              System.out.println();
             }
            
