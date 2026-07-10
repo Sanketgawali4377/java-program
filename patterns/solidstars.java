@@ -1,4 +1,4 @@
-package patterns;
+
 
 public class solidstars {
     public static void main(String[] args){
