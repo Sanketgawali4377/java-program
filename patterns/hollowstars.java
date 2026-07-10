@@ -1,4 +1,4 @@
-package patterns;
+
 
 public class hollowstars {
     public static void main(String[] args){
