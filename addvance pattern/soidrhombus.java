@@ -1,4 +1,4 @@
-import java.util.*;
+
 public class soidrhombus {
     public static void main(String args[]){
     int n =5;
