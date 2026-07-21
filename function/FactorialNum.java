@@ -22,6 +22,7 @@ public class FactorialNum {
         int n = sc.nextInt();
         System.out.print("Answer is :");
         printfactorial(n);
+        sc.close();
     }
     
 }

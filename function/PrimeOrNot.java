@@ -30,5 +30,6 @@ public class PrimeOrNot {
         } else {
             System.out.println(num + " is NOT a Prime number");
         }
+        sc.close();
     }
 }

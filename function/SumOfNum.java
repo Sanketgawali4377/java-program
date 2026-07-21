@@ -12,6 +12,7 @@ public static void main(String[] args){
     int b = sc.nextInt();
     int sum = calculatesum(a, b);
     System.out.println("sum :" + sum);
+    sc.close();
 }
 }
 

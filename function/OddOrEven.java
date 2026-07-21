@@ -17,7 +17,7 @@ public class OddOrEven {
             System.out.print("Enter The Number :");
             int n = sc.nextInt();
             check(n);
-
+            sc.close();
             
         }
     }

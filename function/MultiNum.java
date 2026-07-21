@@ -15,6 +15,7 @@ public class MultiNum {
             int b = sc.nextInt();
         
     System.out.println("multiply of two number :" + calculate( a, b));
+    sc.close();
     
     }
 }
