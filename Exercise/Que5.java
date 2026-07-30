@@ -20,7 +20,7 @@ public class Que5 {
         int age = sc.nextInt();
 
         verification(age);
-
+        sc.close();
     }
     
 }
