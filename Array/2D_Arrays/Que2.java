@@ -6,8 +6,10 @@ public class Que2 {
     public static  void main(String[] args){
 
         Scanner sc = new Scanner(System.in);
+
         System.out.print("Enter How Many Colums You Want :");
         int cols = sc.nextInt();
+        
         System.out.print("Enter How Many Rows You Want :");
         int rows = sc.nextInt();
 
@@ -15,6 +17,7 @@ public class Que2 {
 
         for(int i=0; i<rows; i++){
             for(int j=0; j<cols; j++){
+                System.out.print("Enter The Element :");
                 number [i][j] = sc.nextInt();
             }
         }
