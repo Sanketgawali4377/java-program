@@ -25,7 +25,7 @@ public class Que3 {
 
 
      }
-    System.out.println(userName);
+    System.out.print("username :" + userName);
         sc.close();
     }
 
