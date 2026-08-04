@@ -5,7 +5,6 @@ Print all characters at even indices.
 Print all characters at odd indices.*/
 
 
-package Strings;
 
 import java.util.Scanner;
 
@@ -52,12 +51,6 @@ for(int i=0; i<name.length(); i++){
         System.out.println("Charecter At Odd :"+ name.charAt(i) + " ");
     }
    }
-
-
-
-
-
-    
     sc.close();
 }
     

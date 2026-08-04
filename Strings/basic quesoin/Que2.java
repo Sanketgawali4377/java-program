@@ -4,9 +4,6 @@ original = “eabcdef’ ; result = “iabcdif”
 Original = “xyz” ; result = “xyz” */
 
 
-
-package Strings;
-
 import java.util.Scanner;
 
 public class Que2 {

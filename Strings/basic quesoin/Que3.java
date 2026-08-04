@@ -5,7 +5,7 @@ email = “helloWorld123@gmail.com”; username = “helloWorld123”*/
 
 
 
-package Strings;
+
 
 import java.util.Scanner;
 

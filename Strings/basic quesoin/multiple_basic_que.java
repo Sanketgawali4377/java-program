@@ -5,7 +5,6 @@ Count uppercase and lowercase letters separately.
 
 
 
-package Strings;
 import java.util.*;
 
 public class multiple_basic_que{
