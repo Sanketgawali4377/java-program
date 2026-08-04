@@ -35,6 +35,28 @@ public class multiple_basic_que2 {
     System.out.println("String Not Empty :");
    }
 
+//Print all characters at even indices.
+//Print all characters at odd indices
+System.out.println("---------- charecter At Even Index ---------");
+for(int i=0; i<name.length(); i++){
+    if(i%2==0){
+         
+         System.out.println("Charecter At  :"+ name.charAt(i) + " ");
+    }
+   }
+
+
+    for(int i=0; i<name.length(); i++){
+       
+    if (i%2 != 2){
+        System.out.println("Charecter At Odd :"+ name.charAt(i) + " ");
+    }
+   }
+
+
+
+
+
     
     sc.close();
 }
