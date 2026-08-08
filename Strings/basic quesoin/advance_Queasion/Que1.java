@@ -4,12 +4,8 @@ Print the first half of a string.
 Print the second half of a string.
 Compare two strings using compareTo().
 Check whether two strings are equal using equals().
-
-
 Count how many times a particular character appears.
-Find the index of the first occurrence of a character (without indexOf()).
-Find the index of the last occurrence of a character (without lastIndexOf()).
-Check if a string starts with a given character.*/
+*/
 
 package advance_Queasion;
 import java.util.*;
